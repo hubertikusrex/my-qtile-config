@@ -1,0 +1,5 @@
+Packeges: alacritty, git, firefox, flatpak, vscodium (flatpak), base-devel, yay, rofi, ranger, micro, pipewire-pulse, pavucontrol,
+discord(vencord), flatseal, neofetch, unzip, ttf-roboto-mono-nerd, picom, alsa-utils, python-psutil, flameshot, lxappearance, papirus, variety, 
+playctl, steam, noto-fonts-cjk, heroic, lact
+
+VM( qemu virt-manager virt-viewer dnsmasq vde2 bridge-utils openbsd-netcat ebtables iptables libguestfs -> https://christitus.com/setup-qemu-in-archlinux/)
